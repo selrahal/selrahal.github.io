@@ -1,0 +1,8 @@
+markdown: rdiscount
+highlighter: pygments
+
+collections:
+ projects:
+  output: true
+ labs:
+  output: true

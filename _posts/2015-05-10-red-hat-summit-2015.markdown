@@ -1,0 +1,11 @@
+---
+title: Red Hat Summit 2015!
+layout: default
+author:
+  name: Salem Elrahal
+  url: http://salemelrahal.org
+---
+
+Come see me expand on the scalability of BPMS 6.1 at [Red Hat Summit](http://www.redhat.com/summit/agenda/sessions/#12935) during my presentation "The Speed of Business: Performance techniques for Red Hat JBoss BPM Suite".
+
+The session will take place in room 309 on Thursday, June 25th, at 10:40 am. Looking forward to seeing you there!
