@@ -1,0 +1,12 @@
+---
+title: Red Hat Summit 2016!
+layout: default
+author:
+  name: Salem Elrahal
+  url: http://salemelrahal.org
+---
+
+Come see Anurag Saran, David Murphy, and myself detail an integration of JBoss BRMS and Big Data that enables both technical and non-technical stakeholders to participate in analyzing and consuming big data. We will be presenting at [Red Hat Summit](https://rh2016.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=41750) on Thursday, June 30th, at 3:30 pm.
+
+Looking forward to seeing you there!
+
