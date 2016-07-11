@@ -1,5 +1,5 @@
 ---
-title: DevNation Live Blog: Decomposing a Java EE Monolith into WildFly Swarm Microservices
+title: DevNation Live Blog - Decomposing a Java EE Monolith into WildFly Swarm Microservices
 layout: default
 author:
   name: Salem Elrahal

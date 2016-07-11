@@ -1,5 +1,5 @@
 ---
-title: DevNation Live Blog: fabric8-ing Continous Improvement with Kubernetes and Jenkins Pipeline
+title: DevNation Live Blog - fabric8-ing Continous Improvement with Kubernetes and Jenkins Pipeline
 layout: default
 author:
   name: Salem Elrahal

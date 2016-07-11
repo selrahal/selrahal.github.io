@@ -1,5 +1,5 @@
 ---
-title: DevNation Live Blog: Java 9 modularity in action
+title: DevNation Live Blog - Java 9 modularity in action
 layout: default
 author:
   name: Salem Elrahal

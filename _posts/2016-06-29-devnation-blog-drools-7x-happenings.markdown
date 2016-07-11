@@ -1,5 +1,5 @@
 ---
-title: DevNation Live Blog: Drools 7.X Happenings and Roadmap
+title: DevNation Live Blog - Drools 7.X Happenings and Roadmap
 layout: default
 author:
   name: Salem Elrahal
