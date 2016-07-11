@@ -1,5 +1,5 @@
 ---
-title: DevNation Live Blog - Analyzing Java applications using Thermostat 
+title: Analyzing Java applications using Thermostat 
 layout: default
 author:
   name: Salem Elrahal

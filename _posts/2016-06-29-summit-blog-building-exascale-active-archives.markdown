@@ -1,5 +1,5 @@
 ---
-title: Summit Live Blog - Building Exascale Active Archives with Red Hat Ceph Storage
+title: Building Exascale Active Archives with Red Hat Ceph Storage
 layout: default
 author:
   name: Salem Elrahal
