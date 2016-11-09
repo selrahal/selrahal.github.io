@@ -206,3 +206,7 @@ pre.highlight{
     border: ridge #ccc;
     border-width: 6px;
 }
+
+h3 {
+  margin-top: 2em;
+}
