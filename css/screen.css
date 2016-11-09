@@ -210,3 +210,17 @@ pre.highlight{
 h3 {
   margin-top: 2em;
 }
+
+
+ul.posts a span.arrow  {
+  display: inline-block ;
+  margin-right: 4px;
+  transition: transform .5s, color .5s;
+}
+
+ul.posts a:hover  span.arrow {
+  transition: transform .5s, color .5s;
+  color: #a00;
+  transform: rotate(-90deg);
+}
+
