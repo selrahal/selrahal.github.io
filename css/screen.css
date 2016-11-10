@@ -219,8 +219,10 @@ ul.posts a span.arrow  {
 }
 
 ul.posts a:hover  span.arrow {
-  transition: transform .5s, color .5s;
+  transition: transform 10ms, color 10ms;
   color: #a00;
-  transform: rotate(-90deg);
+  transform: rotate(-90deg)  translateY(2px);
+  transform: 0 0;
 }
+
 
