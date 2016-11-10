@@ -84,7 +84,6 @@ ul.posts {
   width: 42em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
-  white-space: nowrap;
 }
 
 .title {
@@ -245,5 +244,7 @@ ul.posts a:hover  span.arrow {
   transform: 0 0;
 }
 
-
+#home {
+  white-space: nowrap;
+}
 
