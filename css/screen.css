@@ -1,61 +1,61 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+/*****************************************************************************
+*
+* Common
+*
+******************************************************************************/
 
 /* Global Reset */
 
-* {
-  margin: 0;
-  padding: 0;
-}
+ {
+   margin: 0;
+     padding: 0;
+     }
 
-html, body {
-  height: 100%;
-}
+     html, body {
+       height: 100%;
+       }
 
-body {
-  background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
-  text-align: center;
-}
+       body {
+         background-color: white;
+           font: 13.34px helvetica, arial, clean, sans-serif;
+             *font-size: small;
+               text-align: center;
+               }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
-}
+               h1, h2, h3, h4, h5, h6 {
+                 font-size: 100%;
+                 }
 
-h1 {
-  margin-bottom: 1em;
-}
+                 h1 {
+                   margin-bottom: 1em;
+                   }
 
-p {
-  margin: 1em 0;
-}
+                   p {
+                     margin: 1em 0;
+                     }
 
-a {
-  color: #00a;
-}
+                     a {
+                       color: #00a;
+                       }
 
-a:hover {
-  color: black;
-}
+                       a:hover {
+                         color: black;
+                         }
 
-a:visited {
-  color: #a0a;
-}
+                         a:visited {
+                           color: #a0a;
+                           }
 
-table {
-  font-size: inherit;
-  font: 100%;
-}
+                           table {
+                             font-size: inherit;
+                               font: 100%;
+                               }
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
+/****************************************************************************
+*
+* Home
+*
+******************************************************************************/
 
 ul.posts {
   list-style-type: none;
@@ -72,11 +72,11 @@ ul.posts {
     font-size: 80%;
   }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
+/*****************************************************************************
+*
+* Site
+*
+******************************************************************************/
 
 .site {
   font-size: 110%;
@@ -84,6 +84,7 @@ ul.posts {
   width: 42em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  white-space: nowrap;
 }
 
 .title {
@@ -142,11 +143,11 @@ ul.posts {
         border: 0;
       }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
+/*****************************************************************************
+*
+* Posts
+*
+*****************************************************************************/
 
 #post {
 
@@ -211,6 +212,25 @@ h3 {
   margin-top: 2em;
 }
 
+ul.posts a {
+    margin-left: 300%;
+    width: 300%; 
+  animation-timing-function: ease-out;
+  animation-duration: 500ms;
+  animation-fill-mode: forwards;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 300%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
 
 ul.posts a span.arrow  {
   display: inline-block ;
@@ -224,5 +244,6 @@ ul.posts a:hover  span.arrow {
   transform: rotate(-90deg)  translateY(2px);
   transform: 0 0;
 }
+
 
 
