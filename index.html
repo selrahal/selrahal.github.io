@@ -11,10 +11,6 @@ title: Salem Elrahal
     {% endfor %}
   </ul>
 
-<script src="js/app.js" type="text/javascript"></script>
-
-
-
 <h1>Projects</h1>
   <ul class="posts">
     {% for project in site.projects %}
@@ -22,12 +18,13 @@ title: Salem Elrahal
     {% endfor %}
   </ul>
 
-
   <h1>Labs</h1>
   <ul class="posts">
     {% for lab in site.labs %}
       <li><a href="{{ lab.url }}">{{ lab.title }}</a></li>
     {% endfor %}
   </ul>
+
+<script src="js/app.js" type="text/javascript"></script>
 
 </div>
