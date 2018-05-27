@@ -1,8 +1,5 @@
 .highlight  { 
- background: #eee; 
- border: ridge #ccc;
- border-width: 2px;
- font-size: .8em;
+ font-size: .9em;
  line-height: 1.2em;
 }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
