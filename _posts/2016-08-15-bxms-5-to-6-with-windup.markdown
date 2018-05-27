@@ -23,5 +23,5 @@ Next run windup against your project with the `--target drools`
 
 In the resulting report you will see that the windup rules have identified and created alternatives for any outdated API usage you have, happy migrating!
 
-![](img/drools-5-to-6-windup.png?raw=true)
+![](../img/drools-5-to-6-windup.png?raw=true)
 
